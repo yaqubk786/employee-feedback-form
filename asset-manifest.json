@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/employee-feedback-form/static/css/main.7c8dac80.chunk.css",
+    "main.js": "/employee-feedback-form/static/js/main.b6fe112f.chunk.js",
+    "main.js.map": "/employee-feedback-form/static/js/main.b6fe112f.chunk.js.map",
+    "runtime-main.js": "/employee-feedback-form/static/js/runtime-main.daa7a08e.js",
+    "runtime-main.js.map": "/employee-feedback-form/static/js/runtime-main.daa7a08e.js.map",
+    "static/js/2.7de555d8.chunk.js": "/employee-feedback-form/static/js/2.7de555d8.chunk.js",
+    "static/js/2.7de555d8.chunk.js.map": "/employee-feedback-form/static/js/2.7de555d8.chunk.js.map",
+    "static/js/3.7dae4405.chunk.js": "/employee-feedback-form/static/js/3.7dae4405.chunk.js",
+    "static/js/3.7dae4405.chunk.js.map": "/employee-feedback-form/static/js/3.7dae4405.chunk.js.map",
+    "index.html": "/employee-feedback-form/index.html",
+    "static/css/main.7c8dac80.chunk.css.map": "/employee-feedback-form/static/css/main.7c8dac80.chunk.css.map",
+    "static/js/2.7de555d8.chunk.js.LICENSE.txt": "/employee-feedback-form/static/js/2.7de555d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa7a08e.js",
+    "static/js/2.7de555d8.chunk.js",
+    "static/css/main.7c8dac80.chunk.css",
+    "static/js/main.b6fe112f.chunk.js"
+  ]
+}
